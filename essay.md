@@ -66,7 +66,3 @@ Sed viverra vitae lorem non hendrerit. Nulla vel fermentum mauris. Maecenas nec 
 Vestibulum dapibus fringilla leo, (@abou-el-haj:1984bury) eu mattis metus gravida et. Nam porttitor nunc vel sem iaculis ullamcorper. Nunc diam orci, dignissim sit amet sapien quis, euismod gravida neque. Nunc non diam porttitor, facilisis augue non, dapibus leo. Integer imperdiet ante eu neque sodales, nec mollis lorem condimentum. Quisque leo nulla, malesuada eu volutpat sed, egestas non tellus. Aenean eros arcu, convallis non fringilla id, pulvinar vel risus. Nam eu sapien sed magna venenatis ultricies. Proin consequat rutrum neque, sed sollicitudin diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et erat pretium, feugiat nunc nec, hendrerit enim.
 
 Nam quis lorem id arcu rutrum volutpat. Phasellus sollicitudin mauris id felis venenatis imperdiet at ut quam. Praesent id tincidunt magna. Duis et ultrices purus. Vivamus vehicula diam sed diam placerat dapibus. Donec sem erat, vehicula in enim a, consequat porta metus. Mauris quis urna tincidunt, ornare sem eget, pharetra arcu. Nam ligula sapien, sagittis sed commodo et, pharetra id lacus. Sed feugiat turpis ac velit aliquam pharetra. Maecenas sed enim at mauris egestas posuere. Phasellus sollicitudin sit amet velit ac tincidunt.
-
-\newpage {\centering Works Cited\par}
-\leftskip=2em
-\parindent=-2em
